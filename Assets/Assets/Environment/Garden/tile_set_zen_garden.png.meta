@@ -44,7 +44,7 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 16
@@ -3817,8 +3817,8 @@ TextureImporter:
       tile_set_zen_garden_120: 1708112930
       tile_set_zen_garden_9: 1668996845
       tile_set_zen_garden_6: 1175165300
-      tile_set_zen_garden_126: -645314926
       tile_set_zen_garden_30: 400296825
+      tile_set_zen_garden_126: -645314926
       tile_set_zen_garden_157: 50737536
       tile_set_zen_garden_14: -326561375
       tile_set_zen_garden_38: -1561874677
